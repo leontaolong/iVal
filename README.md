@@ -1,4 +1,4 @@
-# proj-awesome
+# iVal
 
 iVal is a course-based instructor evaluation platfrom for University of Washington Information School (iSchool). 
 
